@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header p.small {
+  font: 12px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header h1 a {
+  color:#000000;
+}
+
+header h1 a:hover {
+  color:#000000;
+}
+
+strong {
+  color:#666666;
+  font-weight:700;
+}
