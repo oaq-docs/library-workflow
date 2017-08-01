@@ -30,7 +30,7 @@ Here’s an explanation of the **Status** dropdown menu options on the **Respons
 
 ## Actions you can perform on a response
 
-As a library user, OAQ allows you to perform a number of actions on questionnaire responses. When you first log in, or when you click **Responses** in the top bar, you will see a list of received responses from across all publishers. The column titled **Actions** lists the actions you can perform on each one:
+As a library user, OAQ allows you to perform a number of actions on questionnaire responses. When you first log in—or when you click **Responses** in the top bar—you will see a list of received responses from across all publishers. The column titled **Actions** lists the actions you can perform on each response:
 
 |Action|Result|
 |--|--|
