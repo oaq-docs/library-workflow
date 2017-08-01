@@ -6,7 +6,7 @@
 
 OAQ is designed to be a multi-tenant platform, which means multiple libraries can use it simultaneously with their own users and branding. This means your organization's data will remain invisible to other libraries.
 
-Note that when we say "library" in this documentation, we mean an organization with an [organization type](organizations) of _library_. The other organization type available is [_publisher_](https://oaq-docs.github.io/publisher-workflow).
+Note that when we say "library" in this documentation, we mean an organization with an [organization type](organizations) of **library**. The other organization type available is [**publisher**](https://oaq-docs.github.io/publisher-workflow).
 
 ## Types of account roles
 
