@@ -31,10 +31,6 @@ theme: jekyll-theme-minimal
 kramdown:
   toc_levels: 1..2
 
-sass:
-  sass_dir: _sass
-  style: compressed
-
 gems:
   - jekyll-feed
 exclude:
