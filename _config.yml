@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   create author questionnaires and creates structured data from
   author responses. You can read more about the project on the
   <a href="http://library.harvard.edu/oaq">Harvard Library portal</a>.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/library-workflow" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: false
 
