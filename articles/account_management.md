@@ -15,8 +15,8 @@ The OAQ application supports several types of **account roles**, each with diffe
 | Account role | Permissions |
 |--|--|
 |Site admin| Can see and manage all organizations, including creating organizations and inviting users to an organization. Currently limited to Harvard library staff. |
-|Organization admin | Can [invite staff to the organization](#inviting-others-to-the-organization), [manage organization users](organizations#managing-organization-users), [edit organization details](organizations#editing-organization-details),  [view author responses](responses#actions-you-can-perform-on-a-response), and [update response statuses](responses#response-status). |
-|Organization staff | Can [view author responses](responses#actions-you-can-perform-on-a-response) and [update response statuses](responses#response-status) |
+|Organization admin | Can [invite staff to the organization](#inviting-others-to-the-organization), [manage organization users](organizations#managing-organization-users), [edit organization details](organizations#editing-organization-details),  [view author responses](responses#actions-you-can-perform-on-a-response), and [update response statuses](responses#response-statuses). |
+|Organization staff | Can [view author responses](responses#actions-you-can-perform-on-a-response) and [update response statuses](responses#response-statuses) |
 
 ## Getting started as an organization admin
 
@@ -26,9 +26,9 @@ Your experience as a library in OAQ begins when the site admin invites the first
 
 Each invited organization admin will receive an email that contains an invitation link. If you receive one of these emails and click the link, you will be taken to a page in OAQ where you can confirm your account and create a password. Note that you can always [change your password](account_management#changing-your-password) later.
 
-## Associating your organization with publishers
+## Partnering with publishers
 
-OAQ facilitates the sharing of questionnaire data between publishers and libraries. As a library, you can associate with specific publishers so that your organization automatically receives responses from those publishers. Only OAQ [site admins](#types-of-account-roles) can set up publisher–library associations, so talk to the site admin who creates your organization about the publishers you wish to work with.
+OAQ facilitates the sharing of questionnaire data between publishers and libraries. As a library, you can partner with specific publishers so that your organization automatically receives responses from those publishers. Only OAQ [site admins](#types-of-account-roles) can set up publisher–library partnerships, so talk to the site admin who creates your organization about the publishers you wish to work with.
 
 ## Inviting others to the organization
 
