@@ -10,7 +10,7 @@ A questionnaire response becomes visible to a library after the publisher has ma
 
 ## Associated questionnaires
 
-When you log into OAQ as a library user, your initial view is the complete set of responses your organization has received across all publishers. The **Questionnaire** column will show the hyperlinked name of each questionnaire associated with the response. If you click one of these hyperlinked names, you will see a list of responses for just that questionnaire.
+When you log into OAQ as a library user, your initial view is the complete set of responses your organization has received across all [partner publishers](account_management#partnering-with-publishers). The **Questionnaire** column will show the hyperlinked name of each questionnaire associated with the response. If you click one of these hyperlinked names, you will see a list of responses for just that questionnaire.
 
 ### Exporting response data
 
@@ -18,14 +18,16 @@ The **Responses for _questionnaire name_** page provides you with the option to 
 
 You can also download individual responses by clicking the **Download** dropdown next to any response and choosing to download either a **CSV** or **PDF** file.
 
-## Response status
+## Response statuses
+
+OAQ workflows depend on updated **response statuses** for the communication of data between publishers and libraries. It's important for libraries to keep response statuses current.
 
 Here’s an explanation of the **Status** dropdown menu options on the **Responses** page:
 
 | Status | Meaning |
 |--|--|
 |Not processed|The library has received the response from the publisher but has not begun processing it.|
-|Library In Progress|The library has received the response from the publisher and begun processing it.|
+|Library In Progress|The library has received the response from the publisher and has begun processing it. Note that this status locks the response for publishers so that answers can't be edited.|
 |Library Complete|The library has received the response from the publisher and finished processing it.|
 
 ## Actions you can perform on a response
@@ -39,7 +41,7 @@ As a library user, OAQ allows you to perform a number of actions on questionnair
 |View ISBN|Shows any ISBN-10 or ISBN-13 that the publisher has associated with the response.|
 |Download|Begins downloading a **CSV** or **PDF** file, depending on the dropdown selection.|
 
-### Status History
+## Status history
 
 You can see the history of library-workflow events that have been performed on each response by clicking **Status History** under **Actions**. Clicking this link will pop up a window that shows:
 
